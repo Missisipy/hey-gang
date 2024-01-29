@@ -1,4 +1,4 @@
-package charpter5.Операторfor;
+package chapter5.Операторfor;
 
 public class Main {
     public static void main(String[] args) {

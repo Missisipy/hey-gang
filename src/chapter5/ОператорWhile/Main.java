@@ -1,4 +1,4 @@
-package charpter5.ОператорWhile;
+package chapter5.ОператорWhile;
 
 public class Main {
     public static void main(String[] args){

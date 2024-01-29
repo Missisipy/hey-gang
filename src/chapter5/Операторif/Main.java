@@ -1,4 +1,4 @@
-package charpter5.Операторif;
+package chapter5.Операторif;
 
 public class Main {
     public static void main(String[] args){

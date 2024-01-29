@@ -1,4 +1,4 @@
-package charpter4.Операции;
+package chapter4.Операции;
 
 public class Main {
     public static void main(String[] args){
